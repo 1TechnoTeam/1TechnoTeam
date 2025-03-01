@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1TechnoTeam&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1technoteam&hide_progress=true)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1TechnoTeam&show_icons=true&count_private=true)](https://github.com/1TechnoTeam)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1TechnoTeam&theme=dark)](https://github.com/1TechnoTeam)
 
